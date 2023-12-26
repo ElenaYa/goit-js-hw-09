@@ -1,0 +1,10 @@
+.feedback-form {
+  display: flex;
+  flex-direction: column;
+
+  width: 408px;
+  padding: 24px;
+  border-radius: 8px;
+  margin: 0 auto;
+  background: #fff;
+}
